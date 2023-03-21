@@ -1,10 +1,10 @@
 ![fondoGithub](https://user-images.githubusercontent.com/51522778/226726275-43ab4848-2fe1-434d-abfb-e8bdcfa53405.png)
 <div>
   <a href="https://github.com/thxare">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=thxare&theme=jolly&show_icons=true&border_color=FF16E8&title_color=B85CFF&icon_color=FF16E8&bg_color=282931" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=thxare&theme=jolly&show_icons=true&border_color=555555&title_color=B85CFF&icon_color=FF16E8&bg_color=282931" />
   </a>
   <a href="https://github.com/thxare">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thxare&langs_count=8&theme=jolly&layout=compact&border_color=FF16E8&title_color=B85CFF&icon_color=FF16E8&bg_color=282931" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thxare&langs_count=8&theme=jolly&layout=compact&border_color=555555&title_color=B85CFF&icon_color=FF16E8&bg_color=282931" />
     
   </a>
 </div>
