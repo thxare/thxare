@@ -1,4 +1,4 @@
-### Hi there 👋
+![fondoGithub](https://user-images.githubusercontent.com/51522778/226726275-43ab4848-2fe1-434d-abfb-e8bdcfa53405.png)
 
 <!--
 **thxare/thxare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
